@@ -1,5 +1,7 @@
 # IFRPM — Intelligent Fleet Risk & Predictive Maintenance
 
+![Banner](docs/banner.png)
+
 > AI-powered aircraft fleet health monitoring with dynamic RUL prediction, risk scoring, and automated alerting — Arizona State University · Team Kansas
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100%2B-009688?logo=fastapi)](https://fastapi.tiangolo.com)
